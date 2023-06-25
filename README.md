@@ -2,7 +2,7 @@
 - 🧑‍🎓 Student at the University of Regina
 - 👀 I’m interested in Data Science, Machine learning and Automation
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Opencv related stuff
+- 💞️ I’m looking to collaborate on Data Analysis and Data Science related projects
 - 📫 You can contact me on jd24prajapati@gmail.com
 - Visit https://jd24prajapati.wixsite.com/mysite for more information
 
